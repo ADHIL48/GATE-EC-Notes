@@ -14,7 +14,12 @@ Let me know if you need any modifications! 🚀
 
 🚀 **Boost Your GATE Preparation with High-Quality Study Resources!**  
 
-[![GATE ECE Preparation](https://github.com/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24/raw/main/assets/drive-card.jpg)](https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link)
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1sGhxUBoLPVvtaDfuxGmZwAV_x7mShruW?usp=drive_link">
+    <img src="https://github.com/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24/raw/main/assets/drive-card.jpg" alt="Complete Notes" width="500" height="140">
+  </a>
+</p>
 
 ## 📂 Study Material  
 
