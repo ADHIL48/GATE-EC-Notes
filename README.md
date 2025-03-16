@@ -1,4 +1,4 @@
-# GATE-EC-Preparation
+# GATE-EC-Notes
 
 # 📚 GATE ECE Preparation Repository
 
