@@ -4,9 +4,10 @@
 </h1>
 
 
-<img src="https://gate2016.info/wp-content/uploads/2024/06/gate-study-material-electronics-communication.webp" alt="Big Smile Emoji" width="420px" align="right">
+
 
 # 📚 GATE ECE Preparation Repository
+<img src="https://gate2016.info/wp-content/uploads/2024/06/gate-study-material-electronics-communication.webp" alt="Big Smile Emoji" width="420px" align="right">
 
 Welcome to the **Ultimate GATE ECE Preparation Repository!** This repository is designed to help students excel in the **GATE (Graduate Aptitude Test in Engineering) - Electronics & Communication Engineering (EC)** exam by providing well-structured, high-quality study materials.
 
