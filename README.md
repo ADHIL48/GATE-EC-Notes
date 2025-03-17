@@ -1,4 +1,10 @@
-# GATE-EC-Notes
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=700&lines=📚+GATE+STUDY+MATERIAL+(EC);Your+Ultimate+Preparation+Guide!">
+</h1>
+
+
+<img src="https://gate2016.info/wp-content/uploads/2024/06/gate-study-material-electronics-communication.webp" alt="Big Smile Emoji" width="420px" align="right">
 
 # 📚 GATE ECE Preparation Repository
 
@@ -26,9 +32,9 @@ Let me know if you need any modifications! 🚀
 ### 📝 **Handbook & Formula Book**  
 - 📖 **[Handbook & Formula Book](https://drive.google.com/drive/folders/1LQlo6d2j3mZz0hyRhD2PzXJ-ZRP0WwZ_?usp=drive_link)**  
 
-### 📚 **Reference Books & Notes**  
+### 📚 **Reference Books & Notes**   <img src="https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/e76a29b4-5e72-4fe6-8735-2e9183e91992.png" alt="Big Smile Emoji" width="400px" align="right">
 - 📚 **[GATE Books](https://drive.google.com/drive/folders/1T8nIsT6eufhl1CLLLrFA-gjewsmDArHL?usp=drive_link)**  
-- 📖 **[GateWalah Notes](https://drive.google.com/drive/folders/10VHF9kJOg54dwvlHHfwvFDinOdscxNu0?usp=drive_link)**  
+- 📖 **[GateWalah Notes](https://drive.google.com/drive/folders/10VHF9kJOg54dwvlHHfwvFDinOdscxNu0?usp=drive_link)** 
 - 📕 **[MadeEasy Notes (All Subjects)](https://drive.google.com/drive/folders/1-DQwL42ln3gKVjM55JSr0AMZVhA5Slsi?usp=drive_link)**  
 - 🏫 **[ACE Academy Notes](https://drive.google.com/drive/folders/1-udQ0091V3a0FlSjUWMP019yRvAIoWIC?usp=drive_link)**  
 - 📖 **[GATE ECE Notes](https://drive.google.com/drive/folders/11AalQLt6eFiObYmsk-8tsfa4G-PR0mLx?usp=drive_link)**  
@@ -40,6 +46,9 @@ Let me know if you need any modifications! 🚀
 📂 **[Additional Solved Papers](https://drive.google.com/drive/folders/1aDXPKm11qLpVOTMUz2ATDHmiazToMQSV?usp=drive_link)**  
 
 ## 📘 **Subject-Wise GATE ECE Notes**  
+
+<img src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2021/05/GATE-ECE-Syllabus-1.png" alt="Big Smile Emoji" width="400px" align="right">
+
 🔹 **[Network Theory](https://drive.google.com/drive/folders/11EIBBnSvwPlAfj5EcgIEcjzVJW0zgvo5?usp=drive_link)**  
 🔹 **[Electromagnetics](https://drive.google.com/drive/folders/11HgFnX8mHn94f8C2GI1-LnMic134isfI?usp=drive_link)**  
 🔹 **[Control Systems](https://drive.google.com/drive/folders/11KNuzxXg-EKrPDHtP6_RBOwqhwGPelMv?usp=drive_link)**  
@@ -102,14 +111,14 @@ This README is now ready to be used in your **GitHub repository**! 🎯 🚀
 
 ---
 
-## 📖 Subject-Wise Breakdown
+## 📖 Subject-Wise Breakdown 
 
 ### 📡 **Communication Systems**
 - Analog & Digital Communication
 - Information Theory & Coding
 - Random Processes & Noise Analysis
 
-### ⚡ **Signals & Systems**
+### ⚡ **Signals & Systems** <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240117185409/Complete-Roadmap-GATE-2025-1.gif" alt="Big Smile Emoji" width="420px" align="right">
 - Fourier & Laplace Transforms
 - Z-Transform & Convolution
 - LTI Systems & Stability
