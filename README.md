@@ -17,13 +17,15 @@ Let me know if you need any modifications! 🚀
 
 ---
 
-🔗 **[Access All GATE ECE Notes]([[https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link](https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151)](https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151))**  
+🔗 **[Access All GATE ECE Notes](https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151)**  
+
+
 
 🚀 **Boost Your GATE Preparation with High-Quality Study Resources!**  
 
 
 <p align="center">
-  <a href="[https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link](https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151)">
+  <a href="[https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151]">
     <img src="https://github.com/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24/raw/main/assets/drive-card.jpg" alt="Complete Notes" width="500" height="140">
   </a>
 </p>
