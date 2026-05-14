@@ -17,13 +17,13 @@ Let me know if you need any modifications! 🚀
 
 ---
 
-🔗 **[Access All GATE ECE Notes](https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link)**  
+🔗 **[Access All GATE ECE Notes]([[https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link](https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151)](https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151))**  
 
 🚀 **Boost Your GATE Preparation with High-Quality Study Resources!**  
 
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link">
+  <a href="[https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link](https://mcetin53592-my.sharepoint.com/my?id=%2Fpersonal%2F727622bec114%5Fmcet%5Fin%2FDocuments%2FMCET%2F%23ADHIL%20M%5F%28727622BEC114%29%2FCOLLEGE%5FNOTES%5FECE%5F%282022%2D2026%29%2FGATE%202025&viewid=5527a96b%2D751b%2D4f91%2D81b6%2D31d15e320151)">
     <img src="https://github.com/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24/raw/main/assets/drive-card.jpg" alt="Complete Notes" width="500" height="140">
   </a>
 </p>
@@ -31,35 +31,35 @@ Let me know if you need any modifications! 🚀
 ## 📂 Study Material  
 
 ### 📝 **Handbook & Formula Book**  
-- 📖 **[Handbook & Formula Book](https://drive.google.com/drive/folders/1LQlo6d2j3mZz0hyRhD2PzXJ-ZRP0WwZ_?usp=drive_link)**  
+- 📖 **[Handbook & Formula Book]**  
 
 ### 📚 **Reference Books & Notes**   <img src="https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/e76a29b4-5e72-4fe6-8735-2e9183e91992.png" alt="Big Smile Emoji" width="400px" align="right">
-- 📚 **[GATE Books](https://drive.google.com/drive/folders/1T8nIsT6eufhl1CLLLrFA-gjewsmDArHL?usp=drive_link)**  
-- 📖 **[GateWalah Notes](https://drive.google.com/drive/folders/10VHF9kJOg54dwvlHHfwvFDinOdscxNu0?usp=drive_link)** 
-- 📕 **[MadeEasy Notes (All Subjects)](https://drive.google.com/drive/folders/1-DQwL42ln3gKVjM55JSr0AMZVhA5Slsi?usp=drive_link)**  
-- 🏫 **[ACE Academy Notes](https://drive.google.com/drive/folders/1-udQ0091V3a0FlSjUWMP019yRvAIoWIC?usp=drive_link)**  
-- 📖 **[GATE ECE Notes](https://drive.google.com/drive/folders/11AalQLt6eFiObYmsk-8tsfa4G-PR0mLx?usp=drive_link)**  
+- 📚 **GATE Books**  
+- 📖 **GateWalah Notes** 
+- 📕 **MadeEasy Notes (All Subjects)**  
+- 🏫 **ACE Academy Notes**  
+- 📖 **GATE ECE Notes**  
 
 ## 📑 **Solved Question Papers**  
-📂 **[Chapter-Wise & Year-Wise PYQs](https://drive.google.com/drive/folders/1f8e0CwMeqQC6aHPzdzWeIJZiJsW4VrI_?usp=drive_link)**  
-📂 **[GATE EC 2010-2024 Paper Solutions](https://drive.google.com/drive/folders/1jhgk4rqsTZG22bY3xG1ye_xhONj6hZZK?usp=drive_link)**  
-📂 **[MadeEasy Paper Solutions](https://drive.google.com/drive/folders/19tRLe5l94zmtgN7cdyRuhZGkVsSVXkE3?usp=drive_link)**  
-📂 **[Additional Solved Papers](https://drive.google.com/drive/folders/1aDXPKm11qLpVOTMUz2ATDHmiazToMQSV?usp=drive_link)**  
+📂 **Chapter-Wise & Year-Wise PYQs**  
+📂 **GATE EC 2010-2024 Paper Solutions**  
+📂 **MadeEasy Paper Solutions**  
+📂 **Additional Solved Papers**  
 
 ## 📘 **Subject-Wise GATE ECE Notes**  
 
 <img src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2021/05/GATE-ECE-Syllabus-1.png" alt="Big Smile Emoji" width="400px" align="right">
 
-🔹 **[Network Theory](https://drive.google.com/drive/folders/11EIBBnSvwPlAfj5EcgIEcjzVJW0zgvo5?usp=drive_link)**  
-🔹 **[Electromagnetics](https://drive.google.com/drive/folders/11HgFnX8mHn94f8C2GI1-LnMic134isfI?usp=drive_link)**  
-🔹 **[Control Systems](https://drive.google.com/drive/folders/11KNuzxXg-EKrPDHtP6_RBOwqhwGPelMv?usp=drive_link)**  
-🔹 **[Electronic Devices & Circuits](https://drive.google.com/drive/folders/11Pm0_32tNqhhdEcmo94Y78IMLeZRf8bC?usp=drive_link)**  
-🔹 **[Analog Circuits](https://drive.google.com/drive/folders/11SgrZHC6uwGoEbaMkrOnTCSbko7scBl-?usp=drive_link)**  
-🔹 **[Digital Circuits](https://drive.google.com/drive/folders/11U8W7EiWd6iRnZFDSGads1oRvIxs3b-x?usp=drive_link)**  
-🔹 **[Signals & Systems](https://drive.google.com/drive/folders/11W9S3hcqC6ZgcWcSaCALGDIHefzImAhB?usp=drive_link)**  
-🔹 **[Communication Systems](https://drive.google.com/drive/folders/11gfvJl8YL-V2yVgpLB1oFE2SnIC6sGyA?usp=drive_link)**  
-🔹 **[Engineering Mathematics](https://drive.google.com/drive/folders/11h4Nz2M-cMB_JVn5MIgFHfEeT4TBnL52?usp=drive_link)**  
-🔹 **[General Aptitude](https://drive.google.com/drive/folders/11ixPn-aqEhfRWvIKQQVqTJhfE-bJ8488?usp=drive_link)**  
+🔹 **Network Theory**  
+🔹 **Electromagnetics**  
+🔹 **Control Systems**  
+🔹 **Electronic Devices & Circuits**  
+🔹 **Analog Circuits**  
+🔹 **Digital Circuits**  
+🔹 **Signals & Systems**  
+🔹 **Communication Systems**  
+🔹 **Engineering Mathematics**  
+🔹 **General Aptitude**  
 
 
 
